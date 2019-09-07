@@ -1,5 +1,4 @@
 
-package com.houarizegai.calculator;
 
 import java.awt.Cursor;
 import java.awt.Font;
