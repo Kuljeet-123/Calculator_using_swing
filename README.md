@@ -1,5 +1,5 @@
 ﻿# Calculator App
-Very basic calculator application created by Java **Swing**. 
+Very basic calculator application created by **Java Swing**. 
 
 ### Screenshoot
 Sample           |   Colored
